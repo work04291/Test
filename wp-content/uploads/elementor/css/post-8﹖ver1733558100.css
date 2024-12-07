@@ -1,0 +1,486 @@
+.elementor-8 .elementor-element.elementor-element-2eb7163 {
+    --display: flex;
+    --min-height: 663px;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 10px;
+    --padding-bottom: 10px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-8 .elementor-element.elementor-element-2eb7163:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-2eb7163>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("../../2024/12/Asset-12.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-8 .elementor-element.elementor-element-2eb7163,
+.elementor-8 .elementor-element.elementor-element-2eb7163::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-19910ae {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(2, 1fr);
+    --e-con-grid-template-rows: repeat(1, 1fr);
+    --grid-auto-flow: row;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-c4e2eba {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-3dc8edf {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-3dc8edf img {
+    max-width: 24%;
+}
+
+.elementor-8 .elementor-element.elementor-element-a97a01b {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5728921 {
+    --grid-template-columns: repeat(0, auto);
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-5728921 .elementor-widget-container {
+    text-align: right;
+}
+
+.elementor-8 .elementor-element.elementor-element-5728921 .elementor-social-icon {
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-b62f03d {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-0543bc3>.elementor-widget-container {
+    margin: -40px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-0543bc3 img {
+    max-width: 36%;
+}
+
+body:not(.rtl) .elementor-8 .elementor-element.elementor-element-bbb025d {
+    left: 0px;
+}
+
+body.rtl .elementor-8 .elementor-element.elementor-element-bbb025d {
+    right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-bbb025d {
+    bottom: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-bbb025d img {
+    width: 100%;
+    max-width: 100%;
+    height: 100px;
+}
+
+.elementor-8 .elementor-element.elementor-element-385ef6e {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --margin-top: -2px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 10px;
+    --padding-bottom: 10px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-8 .elementor-element.elementor-element-385ef6e:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-385ef6e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-385ef6e,
+.elementor-8 .elementor-element.elementor-element-385ef6e::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-8ad48fe {
+    --spacer-size: 50px;
+}
+
+.elementor-8 .elementor-element.elementor-element-8122323 {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(2, 1fr);
+    --e-con-grid-template-rows: repeat(1, 1fr);
+    --grid-auto-flow: row;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-84cd43d {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-1f1b5f2 img {
+    max-width: 79%;
+}
+
+.elementor-8 .elementor-element.elementor-element-e93844c {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-e8928c1 {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-e8928c1 img {
+    max-width: 73%;
+}
+
+.elementor-8 .elementor-element.elementor-element-148d4e6 .elementor-heading-title {
+    color: #000000;
+    font-family: "Poor Story", Sans-serif;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 31px;
+    letter-spacing: 1px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce16030 {
+    --display: flex;
+    --min-height: 127px;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce16030:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-ce16030>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("../../2024/12/Asset-26.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce16030.e-con {
+    --e-con-transform-rotateZ: -2deg;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce16030,
+.elementor-8 .elementor-element.elementor-element-ce16030::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-89f99e0 {
+    width: var( --container-widget-width, 81.139%);
+    max-width: 81.139%;
+    --container-widget-width: 81.139%;
+    --container-widget-flex-grow: 0;
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-89f99e0.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-89f99e0 .elementor-heading-title {
+    color: #000000;
+    font-family: "Poor Story", Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 31px;
+    letter-spacing: 1px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ac14e85 {
+    --spacer-size: 50px;
+}
+
+.elementor-8 .elementor-element.elementor-element-6376df2 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --overlay-opacity: 1;
+    --padding-top: 10px;
+    --padding-bottom: 10px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-8 .elementor-element.elementor-element-6376df2::before,
+.elementor-8 .elementor-element.elementor-element-6376df2>.elementor-background-video-container::before,
+.elementor-8 .elementor-element.elementor-element-6376df2>.e-con-inner>.elementor-background-video-container::before,
+.elementor-8 .elementor-element.elementor-element-6376df2>.elementor-background-slideshow::before,
+.elementor-8 .elementor-element.elementor-element-6376df2>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-8 .elementor-element.elementor-element-6376df2>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    background-image: url("../../2024/12/Asset-14.png");
+    --background-overlay: '';
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-8 .elementor-element.elementor-element-6376df2:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-6376df2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #88dfff;
+}
+
+.elementor-8 .elementor-element.elementor-element-6376df2,
+.elementor-8 .elementor-element.elementor-element-6376df2::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-cb474c9 {
+    --spacer-size: 50px;
+}
+
+.elementor-8 .elementor-element.elementor-element-84ba43c {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-93905a7 img {
+    max-width: 55%;
+}
+
+.elementor-8 .elementor-element.elementor-element-5540096 {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(3, 1fr);
+    --e-con-grid-template-rows: repeat(1, 1fr);
+    --grid-auto-flow: row;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-64dddc6 {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(1, 1fr);
+    --e-con-grid-template-rows: repeat(2, 1fr);
+    --grid-auto-flow: row;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-d424d0e {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-a4854ee {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-4dfb982 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5736a2b {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(1, 1fr);
+    --e-con-grid-template-rows: repeat(2, 1fr);
+    --grid-auto-flow: row;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-20400cf {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-44b07cd {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-1692020 {
+    --spacer-size: 50px;
+}
+
+.elementor-8 .elementor-element.elementor-element-4636f53 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-4636f53:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-4636f53>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-4636f53,
+.elementor-8 .elementor-element.elementor-element-4636f53::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-e3fbed7 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-e3fbed7 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Poor Story", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1.7px;
+}
+
+@media(min-width:768px) {
+    .elementor-8 .elementor-element.elementor-element-ce16030 {
+        --width: 100%;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-8 .elementor-element.elementor-element-19910ae {
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-8122323 {
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-5540096 {
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-64dddc6 {
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-5736a2b {
+        --grid-auto-flow: row;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-8 .elementor-element.elementor-element-2eb7163 {
+        --min-height: 388px;
+    }
+    .elementor-8 .elementor-element.elementor-element-19910ae {
+        --e-con-grid-template-columns: repeat(1, 1fr);
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-3dc8edf {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-3dc8edf img {
+        max-width: 100%;
+    }
+    .elementor-8 .elementor-element.elementor-element-5728921 .elementor-widget-container {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-0543bc3 img {
+        max-width: 82%;
+    }
+    .elementor-8 .elementor-element.elementor-element-bbb025d img {
+        height: 33px;
+    }
+    .elementor-8 .elementor-element.elementor-element-8ad48fe {
+        --spacer-size: 10px;
+    }
+    .elementor-8 .elementor-element.elementor-element-8122323 {
+        --e-con-grid-template-columns: repeat(1, 1fr);
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-148d4e6 .elementor-heading-title {
+        font-size: 25px;
+    }
+    .elementor-8 .elementor-element.elementor-element-ce16030:not(.elementor-motion-effects-element-type-background),
+    .elementor-8 .elementor-element.elementor-element-ce16030>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-position: center center;
+    }
+    .elementor-8 .elementor-element.elementor-element-89f99e0 {
+        width: var( --container-widget-width, 237.1px);
+        max-width: 237.1px;
+        --container-widget-width: 237.1px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-8 .elementor-element.elementor-element-89f99e0 .elementor-heading-title {
+        font-size: 19px;
+    }
+    .elementor-8 .elementor-element.elementor-element-ac14e85 {
+        --spacer-size: 10px;
+    }
+    .elementor-8 .elementor-element.elementor-element-cb474c9 {
+        --spacer-size: 50px;
+    }
+    .elementor-8 .elementor-element.elementor-element-93905a7 img {
+        max-width: 100%;
+    }
+    .elementor-8 .elementor-element.elementor-element-5540096 {
+        --e-con-grid-template-columns: repeat(1, 1fr);
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-64dddc6 {
+        --e-con-grid-template-columns: repeat(1, 1fr);
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-5736a2b {
+        --e-con-grid-template-columns: repeat(1, 1fr);
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-1692020 {
+        --spacer-size: 10px;
+    }
+}
+
+/* Start custom CSS for image, class: .elementor-element-8443c96 */
+
+/* Floating Animation */
+
+@keyframes float {
+    0% {
+        transform: translateY(0);
+        /* Posisi awal */
+    }
+    50% {
+        transform: translateY(-10px);
+        /* Naik 10px */
+    }
+    100% {
+        transform: translateY(0);
+        /* Kembali ke posisi awal */
+    }
+}
+
+.float-image img {
+    animation: float 3s infinite ease-in-out;
+    /* Durasi 3 detik */
+}
+
+/* End custom CSS */
